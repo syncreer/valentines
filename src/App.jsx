@@ -92,7 +92,7 @@ const Footer = () => {
       href="https://github.com/syncreer/valentines"
       target="__blank"
     >
-      Made with{" "}
+      I love you yara{" "}
       <span role="img" aria-label="heart">
         ❤️
       </span>
